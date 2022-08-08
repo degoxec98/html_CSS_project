@@ -1,3 +1,3 @@
-# Primer proyecto HTML
+# Primer proyecto HTML y CSS
 
 Proyecto iniciado
